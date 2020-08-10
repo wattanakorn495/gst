@@ -8,5 +8,6 @@ a small go gstreamer binding
 https://github.com/notedit/gst-go-demo
 
 
-
+## TODO
+add emit-signals, new-sample, pull-sample callback
 
